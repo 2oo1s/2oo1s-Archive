@@ -16,3 +16,4 @@
 | 24. 09. 23  | Average Load In Linux  | CPU 부하 변화 분석              | VMware, Linux                | [Click!](https://github.com/2oo1s/TIL/blob/main/Own/Average-Load-In-Linux.md) | 1명        |
 | 24. 09. 20  | PAM                    | VM 고정 IP 및 PAM으로 비밀번호 규제 설정 | VMware, Linux                | [Click!](https://github.com/2oo1s/TIL/blob/main/Own/Linux-PAM.md) | 1명        |
 | 24. 09. 19  | Coffee-Time            | Crontab으로 금융 정보 수집     | VMware, Linux, Python       | [Click!](https://github.com/2oo1s/Coffee-Time) | 2명        |
+
