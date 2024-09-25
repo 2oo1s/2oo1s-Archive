@@ -18,7 +18,7 @@
 
 | 날짜       | 프로젝트                     | 설명                                             | 스택                  | 깃허브<br>링크                                                                      | 참여<br>인원 |
 | ---------- | ---------------------------- | ------------------------------------------------ | --------------------- | ----------------------------------------------------------------------------------- | ------------ |
-| 24. 09. 25 | Analyze Container Images w/ Trivy | trivy로 컨테이너 이미지 분석 및 crontab으로 결과 전송 | VMware, Linux, Docker | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Trivy.md) | 1명          |
+| 24. 09. 25 | Analyze Container Images w/ Trivy | trivy로 컨테이너 이미지 분석 및 crontab으로<br>결과 전송 | VMware, Linux, Docker | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Trivy.md) | 1명          |
 | 24. 09. 24 | Docker Image<br>Optimization | Multi-Stage Builds로 Docker<br>Image 크기 최적화 | VMware, Linux, Docker | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Docker-Image-Optimization.md) | 1명          |
 | 24. 09. 23 | Average Load In<br>Linux     | CPU 부하 변화 분석                               | VMware, Linux         | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Average-Load-In-Linux.md) | 1명          |
 | 24. 09. 20 | PAM                          | VM 고정 IP 및 PAM으로 비밀번호<br>규제 설정      | VMware, Linux         | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Linux-PAM.md)             | 1명          |
