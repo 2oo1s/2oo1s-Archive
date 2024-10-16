@@ -2,7 +2,7 @@
 
 **주도적으로 탐구하고 기획하여 진행한 프로젝트**를 모아놓은 포트폴리오입니다!
 
-⏱️ 마지막 업데이트 일자 : 2024-10-02
+⏱️ 마지막 업데이트 일자 : 2024-10-16
 <br>
 
 ## 💡 BE & FE
@@ -18,6 +18,7 @@
 
 | 날짜       | 프로젝트                     | 설명                                             | 스택                  | 깃허브<br>링크                                                                      | 참여<br>인원 |
 | ---------- | ---------------------------- | ------------------------------------------------ | --------------------- | ----------------------------------------------------------------------------------- | ------------ |
+| 24. 10. 16 | IaC 기반 S3 버킷 생성<br> 및 HTML 파일 업로드 프로세스 | Terraform | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/IaC-Env/README.md) | 1명          |
 | 24. 10. 02 | Deploying Multiple<br>Pods in k8s| k8s에서 다중 인스턴스를 배포하여<br>트래픽 로드밸런싱 | Linux, Docker,<br>k8s | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/k8s_Deployment_And_LoadBalancing.md) | 1명          |
 | 24. 09. 27 |Automating DB Data<br>Dump & Migration | DB 데이터를 덤프화해서<br>Crontab으로 Docker<br>컨테이너 간 마이그레이션<br>자동화 | Linux, Docker,<br>MySQL | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Data_Dump.md) | 1명          |
 | 24. 09. 25 | Analyze Container<br>Images w/ Trivy | 컨테이너 이미지 취약점<br>결과를 메일로 전송 | Linux, Docker | [Click👆🏻](https://github.com/2oo1s/TIL/blob/main/Hands-On/Trivy.md) | 1명          |
